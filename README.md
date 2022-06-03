@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Cardoso
+## Olá! Eu sou o Gabriel Cardoso
 
 
 - 🔭 Apaixonado por tecnologia
@@ -31,5 +31,5 @@
  <a href="https://t.me/gabriellSC" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
 </div>
     
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabriell-c/gabriell-c/blob/output/github-contribution-grid-snake.svg)
 
