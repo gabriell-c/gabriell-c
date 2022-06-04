@@ -3,7 +3,7 @@
 
 - 🔭 Apaixonado por tecnologia
 - 🌱 Estudando Python
-- 🎯 Meu objetivo é ser um dev Back-end
+- 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <div>
     <a href="https://github.com/gabriell-c">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-c&layout=compact&langs_count=7&theme=dracula"/>
