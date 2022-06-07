@@ -1,4 +1,4 @@
-## Olá! Eu sou o Gabriel Cardoso
+# Olá! Eu sou o Gabriel Cardoso
 
 <img src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
 
