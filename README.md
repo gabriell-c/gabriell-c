@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Gabriel Cardoso
 
-<img align="right"  src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
+<img src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
 
 🔭 Apaixonado por tecnologia<br>
 📚 Estudando React.js<br>
