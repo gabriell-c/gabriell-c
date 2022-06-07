@@ -1,13 +1,14 @@
 ## Olá! Eu sou o Gabriel Cardoso
 
+<img align="right"  src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudando React.js
-- 🎯 Meu objetivo é ser um desenvolvedor Full Stack
+🔭 Apaixonado por tecnologia<br>
+📚 Estudando React.js<br>
+🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <div>
     <a href="https://github.com/gabriell-c">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-c&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriell-c&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-c&layout=compact&langs_count=7&theme=dracula&bg_color=1A1A1A&title_color=9D41FF&icon_color=9D41FF&text_color=#eeeeee"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabriell-c&show_icons=true&theme=dracula&bg_color=1A1A1A&title_color=9D41FF&icon_color=9D41FF&text_color=#eeeeee&include_all_commits=true&count_private=true"/>
 </div>
     
 ### Ferramentas e Tecnologias:
