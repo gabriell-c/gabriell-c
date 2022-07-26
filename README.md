@@ -3,7 +3,8 @@
 <img src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
 
 🔭 Apaixonado por tecnologia<br>
-📚 Estudando React.js<br>
+📚 Estudando React<br>
+📘 cursando 1º semestre em Análise e Desenvolvimento de Sistemas<br>
 🎯 Meu objetivo é ser um desenvolvedor Full Stack
 <div>
     <a href="https://github.com/gabriell-c">
