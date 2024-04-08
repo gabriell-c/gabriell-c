@@ -3,9 +3,9 @@
 <img src="https://github.com/gabriell-c/img/blob/main/computer-illustration-png.png?raw=true">
 
 🔭 Apaixonado por tecnologia<br>
-📚 Estudando PHP<br>
+📚 Estudando Python<br>
 📘 cursando 1º semestre em Análise e Desenvolvimento de Sistemas<br>
-🎯 Meu objetivo é ser um desenvolvedor Full Stack
+🎯 Meu objetivo é ser um desenvolvedor Full Stack de excelência
 <div>
     <a href="https://github.com/gabriell-c">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabriell-c&layout=compact&langs_count=7&theme=dracula&bg_color=1A1A1A&title_color=9D41FF&icon_color=9D41FF&text_color=#eeeeee"/>
@@ -22,6 +22,7 @@
   <img align="center" alt="Gabriel-React.js" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-Node.js" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabriel-PHP" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
+    <img align="center" alt="Gabriel-Python" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Gabriel-Bootstrap" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gabriel-MySQL" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Gabriel-MongoDB" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
