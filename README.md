@@ -4,7 +4,7 @@
 
 🔭 Apaixonado por tecnologia<br>
 📚 Estudando Python<br>
-📘 cursando 1º semestre em Análise e Desenvolvimento de Sistemas<br>
+📘 cursando 2º semestre em Análise e Desenvolvimento de Sistemas<br>
 🎯 Meu objetivo é ser um desenvolvedor Full Stack de excelência
 <div>
     <a href="https://github.com/gabriell-c">
