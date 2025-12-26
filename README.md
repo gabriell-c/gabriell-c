@@ -1,6 +1,6 @@
 <h1> Olá! Eu sou o Gabriel Cardoso </h1>
 
-<img src="https://photos.fife.usercontent.google.com/pw/AP1GczOAvN4TSLyzlScW6sZEAWt0T0qn9X-f6f4NzqZbotrr-yHEYwt52O5R=w439-h326-s-no-gm">
+<img src="https://raw.githubusercontent.com/gabriell-c/gabriell-c/refs/heads/main/laptop.png">
 
 🔭 Apaixonado por tecnologia<br>
 📚 Estudando Python<br>
