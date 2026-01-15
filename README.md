@@ -69,7 +69,7 @@
 # 📊 GitHub Analytics
 
     
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=gabriell-c&show_icons=true&theme=omni)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/gabriell-c?cardType=level&theme=omni&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
 </div>
 
 <div align="center">
